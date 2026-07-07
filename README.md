@@ -1,5 +1,3 @@
-# Gustavo
-
 **Systems Analysis and Development Student (ADS)** — Brazil (UTC-3)
 
 Backend-focused developer, primarily working with Java, genuinely curious about how computers work under the hood. Studying quantum computing and artificial intelligence, with particular interest in how AI models learn and behave.
