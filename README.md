@@ -56,4 +56,4 @@ Quantum Computing · Artificial Intelligence (model learning and behavior) · Co
 
 ## Languages
 
-Portuguese (native) · English · French (learning) · German (learning)
+Portuguese (native) · English (advanced reading/writing, developing speaking) · French (learning) · German (learning)
